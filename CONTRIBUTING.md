@@ -1,3 +1,3 @@
-# Contributing Guidelines
+# Guidelines for Contributing
 
 TBD
