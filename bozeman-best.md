@@ -2,7 +2,7 @@
 
 ## \#1
 
-Description:
+John Bozeman's Bistro
 
 ## \#2
 
