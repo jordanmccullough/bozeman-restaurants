@@ -4,3 +4,4 @@
 - Ale Works
 - Blackbird
 - MacKenzie River Pizza
+- Ted's
