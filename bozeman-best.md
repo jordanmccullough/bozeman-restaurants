@@ -2,7 +2,7 @@
 
 ## \#1
 
-John Bozeman's Bistro
+- John Bozeman's Bistro
 
 ## \#2
 
