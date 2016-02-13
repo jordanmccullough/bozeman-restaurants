@@ -1,5 +1,8 @@
 # Guidelines for Contributing
 
+## Fork expectations
+- Feature branches should not contain `patch-1`
+
 ## Issues policy
 - At-mention relevant team name
 - Use descriptive title
