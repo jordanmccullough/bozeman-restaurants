@@ -1,5 +1,5 @@
 # Lunch
 
--Pickle Barrel
--Taco Montes
--Miller
+- Pickle Barrel
+- Taco Montes
+- Miller
